@@ -23,7 +23,7 @@ export default function Intro() {
         <ButtonBackground>
           <ButtonLink href="mailto:jacksonk.dev@gmail.com">Send Me a Mail</ButtonLink>
         </ButtonBackground>
-        <ButtonBackground>
+        <ButtonBackground left>
           <ButtonLink href={resume}>Download Resume</ButtonLink>
         </ButtonBackground>
       </WorkWithMe>

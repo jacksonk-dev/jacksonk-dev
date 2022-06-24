@@ -64,7 +64,7 @@ export const ButtonBackground = styled.div`
   width: 132px;
   padding: 2px;
   box-sizing: border-box;
-  background: linear-gradient(to right, yellow, red);
+  background: ${({ left }) => left ? 'linear-gradient(to left, yellow, red)' : 'linear-gradient(to right, yellow, red)'};
   @media screen and (min-width: 768px){
     width: 160px;
   }
