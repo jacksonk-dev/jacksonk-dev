@@ -10,6 +10,7 @@ import {
 import Intro from "./Intro"
 import SideBar from './SideBar';
 import Technologies from './Technologies';
+import ScatteredEmojies from './scatteredEmogies';
 
 const Root = styled.div`
   color: #fff;
@@ -63,6 +64,7 @@ function App() {
       <Content>
         <Intro />
         <Technologies />
+        <ScatteredEmojies />
       </Content>
       <SideBar items={leftSocials} />
     </Root>
