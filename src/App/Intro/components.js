@@ -39,3 +39,18 @@ export const AboutMe = styled.p`
   font-weight: 300;
   max-width: 500px;
 `
+export const WorkWithMe = styled.div`
+  display: flex;
+  justify-content: space-between;
+  width: 332px;
+  margin: 16px 0;
+`
+
+export const ButtonLink = styled.a`
+  padding: 12px 8px;
+  width: 160px;
+  box-sizing: border-box;
+  border: 2px solid #FFF176;
+  text-decoration: none;
+  color: #fff;
+`

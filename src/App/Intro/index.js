@@ -1,5 +1,6 @@
 import dp from '../assets/images/profile.jpg'
-import { Root, ImageContainer, Image, Yellow, Red, ImageInnerContainer, AboutMe } from './components'
+import resume from "../assets/docs/JacksonDeveloperResume.pdf"
+import { Root, ImageContainer, Image, Yellow, Red, ImageInnerContainer, AboutMe, WorkWithMe, ButtonLink } from './components'
 
 export default function Intro() {
   return (
@@ -15,6 +16,10 @@ export default function Intro() {
         I'm experienced in building web applications using
         various technologies.
       </AboutMe>
+      <WorkWithMe>
+        <ButtonLink href="mailto:jacksonk.dev@gmail.com">Send Me a Mail</ButtonLink>
+        <ButtonLink href={resume}>Download Resume</ButtonLink>
+      </WorkWithMe>
     </Root>
   )
 }
