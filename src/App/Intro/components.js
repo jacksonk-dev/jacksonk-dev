@@ -38,19 +38,46 @@ export const Image = styled.img`
 export const AboutMe = styled.p`
   font-weight: 300;
   max-width: 500px;
-`
-export const WorkWithMe = styled.div`
-  display: flex;
-  justify-content: space-between;
-  width: 332px;
-  margin: 16px 0;
+  line-height: 28px;
 `
 
-export const ButtonLink = styled.a`
-  padding: 12px 8px;
-  width: 160px;
+export const InlineLink = styled.a`
+  text-decoration: none;
+  font-weight: 400;
+  color: #FFF176;
+`
+
+export const WorkWithMe = styled.div`
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 280px;
+  margin: 16px 0;
+  @media screen and (min-width: 768px){
+    width: 340px;
+  }
+`
+
+export const ButtonBackground = styled.div`
+  width: 132px;
+  padding: 2px;
   box-sizing: border-box;
-  border: 2px solid #FFF176;
+  background: linear-gradient(to right, yellow, red);
+  @media screen and (min-width: 768px){
+    width: 160px;
+  }
+`
+export const ButtonLink = styled.a`
+  width: 100%;
+  height: 100%;
+  padding: 12px 8px;
+  display: block;
+  box-sizing: border-box;
+  background-color: #282c34;
   text-decoration: none;
   color: #fff;
+  font-size: 12px;
+  @media screen and (min-width: 768px){
+    font-size: 16px;
+  }
 `
