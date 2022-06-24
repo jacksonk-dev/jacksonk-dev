@@ -26,6 +26,10 @@ export const SocialLink = styled.a`
   justify-content: center;
   border: 2px solid #fff;
   border-radius: 50%;
+  &:hover {
+    color: #FFF176;
+    border-color: #E57373;
+  }
 `
 
 export const TopVerticalDivLine = styled.div`
