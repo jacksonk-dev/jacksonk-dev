@@ -5,7 +5,6 @@ export const Root = styled.div`
   flex-direction: column;
   align-items: center;
   text-align: center;
-  margin-left: 64px;
 `
 
 export const Yellow = styled.span`

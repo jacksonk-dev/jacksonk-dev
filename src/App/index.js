@@ -20,6 +20,10 @@ const Root = styled.div`
   box-sizing: border-box;
 `
 
+const Content = styled.div`
+  margin-left: 64px;
+`
+
 const leftSocials = [
   {
     title: 'Github',
@@ -51,7 +55,9 @@ const leftSocials = [
 function App() {
   return (
     <Root className="App">
-      <Intro />
+      <Content>
+        <Intro />
+      </Content>
       <SideBar items={leftSocials} />
     </Root>
   );
