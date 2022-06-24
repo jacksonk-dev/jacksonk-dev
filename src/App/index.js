@@ -9,6 +9,7 @@ import {
 
 import Intro from "./Intro"
 import SideBar from './SideBar';
+import Technologies from './Technologies';
 
 const Root = styled.div`
   color: #fff;
@@ -18,10 +19,14 @@ const Root = styled.div`
   overflow: hidden;
   background-color: #282c34;
   box-sizing: border-box;
+  overflow: auto;
+  display: flex;
+  align-items: center;
 `
 
 const Content = styled.div`
-  margin-left: 64px;
+  margin: auto;
+  padding-left: 64px;
 `
 
 const leftSocials = [
@@ -57,6 +62,7 @@ function App() {
     <Root className="App">
       <Content>
         <Intro />
+        <Technologies />
       </Content>
       <SideBar items={leftSocials} />
     </Root>

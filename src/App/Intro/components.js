@@ -6,6 +6,9 @@ export const Root = styled.div`
   align-items: center;
   text-align: center;
 `
+export const HeadText = styled.h1`
+  font-size: 64px;
+`
 
 export const Yellow = styled.span`
   color: #FFF176;
