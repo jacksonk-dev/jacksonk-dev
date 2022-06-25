@@ -27,7 +27,12 @@ const Root = styled.div`
 
 const Content = styled.div`
   margin: auto;
+  padding: 0;
   padding-left: 64px;
+  overflow-x: hidden;
+  @media screen and (min-width: 768px){
+    padding-left: 0;
+  }
 `
 
 const leftSocials = [
