@@ -26,9 +26,9 @@ export const SocialLink = styled.a`
   justify-content: center;
   border: 2px solid #fff;
   border-radius: 50%;
+  transition: font-size 0.2s linear;
   &:hover {
-    color: #FFF176;
-    border-color: #E57373;
+    font-size: 32px;
   }
 `
 
