@@ -12,8 +12,9 @@ export const Header = styled.h3`
 `
 export const TechItemsContainer = styled.div`
   display: grid;
-  grid-gap: 8px;
-  grid-template-columns: repeat(auto-fill, 72px);
+  grid-gap: 32px;
+  grid-template-columns: repeat(3, 1fr);
+  box-sizing: border-box;
 `
 
 export const TechItemContainer = styled.div`

@@ -9,8 +9,9 @@ import {
 
 import Intro from "./Intro"
 import SideBar from './SideBar';
-import Technologies from './Technologies';
+// import Technologies from './Technologies';
 import ScatteredEmojies from './scatteredEmogies';
+import Pricing from './pricing';
 
 const Root = styled.div`
   color: #fff;
@@ -65,11 +66,12 @@ const leftSocials = [
 
 function App() {
   return (
-    <Root className="App">
+    <Root>
       <Content>
         <Intro />
-        <Technologies />
+        {/* <Technologies /> */}
         <ScatteredEmojies />
+        <Pricing />
       </Content>
       <SideBar items={leftSocials} />
     </Root>

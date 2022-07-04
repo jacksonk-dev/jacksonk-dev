@@ -31,7 +31,7 @@ const techNologies = [
 export default function Technologies() {
   return (
     <Root>
-      <Header>{'<Some Tech I Work With />'}</Header>
+      <Header>Tech I Work With</Header>
       <TechItemsContainer>
         {
           techNologies.map(({ Icon, title }) => (

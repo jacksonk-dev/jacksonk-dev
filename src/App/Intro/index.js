@@ -14,7 +14,7 @@ export default function Intro() {
       <AboutMe>
         A software engineer based in Kampala, Uganda.
         I'm experienced in building web applications using
-        various technologies. Send me a mail on &nbsp;
+        various technologies including but not limited to JavaScript, React & Angular. Send me a mail on &nbsp;
         <InlineLink href="mailto:jacksonk.dev@gmail.com" target="_blank">jacksonk.dev@gmail.com</InlineLink>&nbsp;
         or get in touch via <InlineLink href="https://www.linkedin.com/in/jacksonk-dev" target="_blank">LinkedIn</InlineLink>.
         Work with me.
