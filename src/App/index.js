@@ -9,7 +9,7 @@ import {
 
 import Intro from "./Intro"
 import SideBar from './SideBar';
-import Technologies from './Technologies';
+// import Technologies from './Technologies';
 import ScatteredEmojies from './scatteredEmogies';
 // import Pricing from './pricing';
 
@@ -69,7 +69,7 @@ function App() {
     <Root>
       <Content>
         <Intro />
-        <Technologies />
+        {/* <Technologies /> */}
         <ScatteredEmojies />
         {/* <Pricing /> */}
       </Content>
