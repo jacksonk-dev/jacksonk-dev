@@ -1,5 +1,5 @@
 # Hi :wave:, I'm Jackson
-I write code, ride motorbikes and pretend to deejay. I have several unfinished projects like any other dev and sometimes I have no idea what I'm doing - hey, I said "sometimes".
+I write code, ride motorbikes and pretend to deejay.
 
 ## Link up :point_down:
 - Website: <a href="https://jackthedev.com">jackthedev.com</a>
