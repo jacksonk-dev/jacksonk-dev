@@ -1,7 +1,15 @@
 <h1 align="center">Hello World! :wave:, it's Jackson</h1>
-<h3 align="center">I write code, ride motorbikes and pretend to deejay</h3>
+<h3 align="center">I write code, ride motorbikes and pretend to deejay</h3><br />
 
-<p align="center"> <a href="https://twitter.com/jacksonk_dev"><img src="https://img.shields.io/twitter/follow/jacksonk_dev?logo=twitter&style=for-the-badge" alt="jackthedev" /></a> </p>
+<p align="center">
+  <a href="https://twitter.com/jacksonk_dev">
+    <img 
+      src="https://img.shields.io/twitter/follow/jacksonk_dev?logo=twitter&style=social&color=informational" 
+      alt="jackthedev" 
+      height="24"
+    />
+  </a>
+</p>
 
 <div align="center">
 <a href="https://twitter.com/jacksonk_dev">
@@ -17,7 +25,7 @@
   <img 
     align="center" 
     src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-    alt="https://www.linkedin.com/in/atechajay/" 
+    alt="jackthedev" 
     height="20" 
     width="24"
   />
