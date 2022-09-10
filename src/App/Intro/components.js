@@ -6,8 +6,17 @@ export const Root = styled.div`
   align-items: center;
   text-align: center;
 `
+
+export const Header = styled.p`
+  color: #FFF176;
+  font-family: 'Nixie One', cursive;
+  font-size: 24px;
+  margin-bottom: 32px;
+`
+
 export const HeadText = styled.h1`
-  font-size: 64px;
+  font-family: 'Nixie One', cursive;
+  font-size: 48px;
 `
 
 export const Yellow = styled.span`
@@ -37,6 +46,10 @@ export const Image = styled.img`
   height: auto;
 `
 
+export const Section = styled.div`
+  margin: 24px 0 0 0;
+`
+
 export const AboutMe = styled.p`
   font-weight: 300;
   max-width: 500px;
@@ -54,7 +67,7 @@ export const WorkWithMe = styled.div`
   align-items: center;
   justify-content: space-between;
   width: 280px;
-  margin: 16px 0;
+  margin: 16px auto;
   @media screen and (min-width: 768px){
     width: 340px;
   }
