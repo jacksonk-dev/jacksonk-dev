@@ -34,10 +34,11 @@
 <br /><br />
 <h3 align="center">Skills & Tools I ❤️️<h3>
 <div align="center">
-  <img src="https://img.shields.io/static/v1?label=&message=JavaSript/React&color=F0DB4F" height="24" />
+  <img src="https://img.shields.io/static/v1?label=&message=JavaSript/React/Angular&color=F0DB4F" height="24" />
   <img src="https://img.shields.io/static/v1?label=&message=Java/Spring Boot&color=f89820 " height="24" />
   <img src="https://img.shields.io/static/v1?label=&message=CSS/SCSS/LESS&color=264de4 " height="24" />
   <img src="https://img.shields.io/static/v1?label=&message=Material UI&color=FFEB3B" height="24" />
+    <img src="https://img.shields.io/static/v1?label=&message=Styled Components&color=880E4F" height="24" />
   <img src="https://img.shields.io/static/v1?label=&message=Jest/Enzyme/React Testing Library&color=blueviolet" height="24" />
   <img src="https://img.shields.io/static/v1?label=&message=Intellij&color=C2185B" height="24" />
   <img src="https://img.shields.io/static/v1?label=&message=VS Code&color=0078d7" height="24" />
