@@ -40,6 +40,6 @@
   <img src="https://img.shields.io/static/v1?label=&message=Material UI&color=FFEB3B" height="24" />
     <img src="https://img.shields.io/static/v1?label=&message=Styled Components&color=880E4F" height="24" />
   <img src="https://img.shields.io/static/v1?label=&message=Jest/Enzyme/React Testing Library&color=blueviolet" height="24" />
-  <img src="https://img.shields.io/static/v1?label=&message=Intellij&color=C2185B" height="24" />
+  <img src="https://img.shields.io/static/v1?label=&message=Intellij IDEA&color=C2185B" height="24" />
   <img src="https://img.shields.io/static/v1?label=&message=VS Code&color=0078d7" height="24" />
 </div>
