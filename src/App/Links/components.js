@@ -27,7 +27,7 @@ export const SocialLink = styled.a`
   font-size: 24px;
   height: 48px;
   width: 48px;
-  margin: 0 8px;
+  margin: 0 4px;
   display: inline-flex;
   align-items: center;
   justify-content: center;
