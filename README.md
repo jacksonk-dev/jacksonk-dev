@@ -31,7 +31,8 @@
     />
   </a>
 </div>
-<br /><br />
+<br />
+
 <h3 align="center">Skills & Tools I ❤️️<h3>
 <div align="center">
   <img src="https://img.shields.io/static/v1?label=&message=JavaSript/React/Angular&color=F0DB4F" height="24" />
