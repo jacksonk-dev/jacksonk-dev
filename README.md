@@ -1,5 +1,5 @@
-<h1 align="center">Hi :wave:, I'm Jackson</h1>
-<h3 align="center">I write code, ride motorbikes and pretend to deejay.</h3>
+<h1 align="center">Hello World! :wave:, it's Jackson</h1>
+<h3 align="center">I write code, ride motorbikes and pretend to deejay</h3>
 
 <p align="center"> <a href="https://twitter.com/jacksonk_dev" target="blank"><img src="https://img.shields.io/twitter/follow/jacksonk_dev?logo=twitter&style=for-the-badge" alt="jackthedev" /></a> </p>
 
