@@ -2,7 +2,7 @@ import { BottomVerticalDivLine, Root, SocialLink, SocialsContainer, TopVerticalD
 
 export default function SideBar({ items }) {
   return (
-    <Root>
+    <Root className='zoom-in'>
       <TopVerticalDivLine />
       <SocialsContainer>
         {

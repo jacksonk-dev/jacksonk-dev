@@ -23,6 +23,10 @@ export const Yellow = styled.span`
   color: #FFF176;
 `
 
+export const Wave = styled.div`
+  display: inline-block;
+`
+
 export const Red = styled.span`
  color: #E57373;
 `
