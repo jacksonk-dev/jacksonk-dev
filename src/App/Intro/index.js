@@ -39,7 +39,7 @@ const leftSocials = [
 ]
 
 export default function Intro() {
-  const resumeURL = 'https://docs.google.com/document/d/1HVbeQzjj8SRAUJEotPqMI8cBJCcGWp7oKckGeXEK_A8/edit?usp=sharing';
+  const resumeURL = 'https://drive.google.com/file/d/1k1Rr3v-ldBJ3BQB-UJIeKwl3NkHO5lrA/view?usp=sharing';
   return (
     <Root>
       <ImageContainer className='spin'>
