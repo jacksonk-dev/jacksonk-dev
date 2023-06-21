@@ -93,7 +93,7 @@ p {
   animation: wave 3s linear infinite;
   animation-delay: 3s;
   -webkit-animation: wave 3s linear infinite;
-  -webkit-animation-delay: 3s;
+  -webkit-animation-delay: 2s;
   -webkit-transform: rotate(0deg);
   -moz-transform: rotate(0deg);
   -ms-transform: rotate(0deg);

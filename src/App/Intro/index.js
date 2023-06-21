@@ -42,7 +42,7 @@ export default function Intro() {
   const resumeURL = 'https://drive.google.com/file/d/1a2IilNqN48Mb2nt0Ou4TkCS_LpZW_eon/view?usp=sharing';
   return (
     <Root>
-      <ImageContainer className='spin'>
+      <ImageContainer>
         <ImageInnerContainer>
           <Image src={dp} alt="dp" />
         </ImageInnerContainer>
