@@ -39,7 +39,7 @@ const leftSocials = [
 ]
 
 export default function Intro() {
-  const resumeURL = 'https://drive.google.com/file/d/1a2IilNqN48Mb2nt0Ou4TkCS_LpZW_eon/view?usp=sharing';
+  const linkedInURL = 'https://www.linkedIn.com/in/jacksonk-dev';
   return (
     <Root>
       <ImageContainer>
@@ -51,10 +51,7 @@ export default function Intro() {
       <AboutMe>
         A full-stack software engineer based in Kampala, Uganda.
         I'm experienced in building web applications and APIs using
-        various technologies including but not limited to JavaScript/React/Angular, Java/Spring Boot, Postgres and Firebase. Send me a mail on &nbsp;
-        <InlineLink href="mailto:jacksonk.dev@gmail.com" target="_blank">jacksonk.dev@gmail.com</InlineLink>&nbsp;
-        or get in touch via <InlineLink href="https://www.linkedin.com/in/jacksonk-dev" target="_blank">LinkedIn</InlineLink>.
-        Work with me.
+        various technologies including but not limited to JavaScript/React/Angular, Java/Spring Boot, Postgres and Firebase.
       </AboutMe>
       <Section>
         <Header>CHECK ME OUT / GET IN TOUCH</Header>
@@ -64,7 +61,7 @@ export default function Intro() {
             <ButtonLink href="mailto:jacksonk.dev@gmail.com">Send Me a Mail</ButtonLink>
           </ButtonBackground>
           <ButtonBackground left>
-            <ButtonLink href={resumeURL} target="_blank">Checkout Resume</ButtonLink>
+            <ButtonLink href={linkedInURL} target="_blank">My LinkedIn</ButtonLink>
           </ButtonBackground>
         </WorkWithMe>
       </Section>
