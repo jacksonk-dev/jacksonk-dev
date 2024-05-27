@@ -6,6 +6,8 @@ import {
   FaMedium,
   FaGithub,
   FaStackOverflow,
+  FaYoutube as YoutubeIcon,
+  FaTiktok as TikTokIcon
 } from 'react-icons/fa';
 
 import Links from '../Links';
@@ -28,7 +30,7 @@ const leftSocials = [
   },
   {
     title: 'Twitter',
-    link: 'https://www.twitter.com/jacksonk_dev',
+    link: 'https://www.twitter.com/thejackug',
     Icon: FaTwitter,
   },
   {
@@ -36,6 +38,16 @@ const leftSocials = [
     link: 'https://medium.com/@jacksonk.dev',
     Icon: FaMedium,
   },
+  {
+    title: 'Youtube',
+    link: 'https://www.youtube.com/@thejackug',
+    Icon: YoutubeIcon,
+  },
+  {
+    title: 'TikTok',
+    link: 'https://www.tiktok.com/@thejackug',
+    Icon: TikTokIcon,
+  }
 ]
 
 export default function Intro() {
